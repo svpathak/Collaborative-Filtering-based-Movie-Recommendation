@@ -1,11 +1,5 @@
 # Collaborative-Filtering-based-Movie-Recommendation
 
-
-
-===================================================
-====								README.txt						     ====
-===================================================
-
 For evaluation metrics, we had to use 3 extra libraries:
 1. 	pip3 install surprise
 2. 	pip3 install scikit-surprise
@@ -14,7 +8,7 @@ For evaluation metrics, we had to use 3 extra libraries:
 ***Important***
 ***IT IS HIGHLY RECOMMENDED TO RUN THIS CODE ON LINUX MACHINE as "surprise" needs extra visual c++ dependencies while installing in windows.***
 
-===================================================
+===============================================================
 
 ![1](https://user-images.githubusercontent.com/118840480/203698775-85164796-1cfb-4de1-9f64-270507ad739e.jpg)
 ![2](https://user-images.githubusercontent.com/118840480/203698838-de778fe1-2e1c-4c32-a9e4-25bf355f512b.png)
